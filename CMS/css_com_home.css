@@ -1,0 +1,100 @@
+
+body {
+    /* Green background with 30% opacity */
+    background-image: url("/CMS/img/bg-8.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    text-align: center;
+  
+  }
+  .marquee{
+      hspace:9px;
+  }
+  
+  #a1{padding:10px;
+  margin-top: 6px; 
+  font-size: 13px;
+  border-radius: 20px;
+  width:120px;}
+  #kish{
+    background-color: rgba(104, 233, 233, 0.5);
+    padding:0px;
+    border-radius: 20px;
+    height:50px;
+    text-align: center;
+  }
+  .mar{
+    color:wheat;
+    font-size: 20px;
+    height:50px;
+    align-items:center;
+  }
+  .dropdown-menu{
+    background-color: transparent;
+    border-radius: 20px;
+  }
+  .d1{
+    background-color: transparent;
+  }
+  img {
+    border-radius: 50%;
+  }
+      #d1{text-align: center;}
+  ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  #li1 :hover{background-color:firebrick;}
+  
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .row1 {
+    margin-left:-5px;
+    margin-right:-5px;
+  }
+  .columnan {
+    float: left;  
+    width: 30%;
+    height:100px;
+    padding: 30px 30px;
+  }
+  .columnan1 {
+    float: left;  
+    width: 170;
+    height:200;
+    padding: 40px;
+    color:white;
+    font-size:20px;
+  }
+  .dropdown:hover{ display: block;
+    margin-top: 0; }
+  .columnan1:hover {
+  padding:35px;
+  width:175;
+  height:280px;
+  background:rgba(104, 233, 233, 0.5);
+    border-radius: 20px;
+    opacity:1;
+  
+  }
+  form{padding:30px 1px;
+align-items: center;}
+  
+      p{
+          padding:0px;
+      }
